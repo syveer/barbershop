@@ -1,0 +1,10 @@
+:root {
+    --link-color: #ffff;
+}
+.global-header {
+    background-color: #333;
+}
+
+
+.global-header .main-navigation 
+{color: rgb(49, 48, 48);}
