@@ -5,6 +5,16 @@
     background-color: #333;
 }
 
+.global-header .main-navigation a,.global-header .main-navigation a:visited
+ {
+    color:#ffff
+}
 
-.global-header .main-navigation 
-{color: rgb(49, 48, 48);}
+a,a:visited {
+    color:#ffff
+}
+
+.global-header .main-navigation a.active
+{
+    color:red;
+}
